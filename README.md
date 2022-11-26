@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akhmadjonakbarov
-- 👀 I’m interested in python, django, dart, flutter, kali, ubuntu
-- 🌱 I’m currently learning python, django, postgresql, pytest
+- 👀 I’m interested in mobile developer(dart, flutter), systemadmin(centos, ubuntu, popos).
+- 🌱 I’m currently learning mobile developing!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
