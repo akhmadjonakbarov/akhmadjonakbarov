@@ -1,5 +1,5 @@
 ### Hi there 👋, Akhmad Akbarov
-#### Mobile Developer
+#### Software Developer
 I'm Akhmad from Uzbekistan, and i do content on Mobile Development. I really enjoy learning languages and frameworks like Dart and Flutter, as well as work in Django. I also enjoy working Linux.
 
 Skills: FLUTTER / DART / POSTGRESQL / LINUX
