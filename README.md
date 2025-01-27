@@ -2,7 +2,7 @@
 #### Software Developer
 I'm Akhmad from Uzbekistan, and i do content on Mobile Development. I really enjoy learning languages and frameworks like Dart and Flutter, as well as work in Django. I also enjoy working Linux.
 
-Skills:PYTHON / DJANGO / DRF / KOTLIN / FLUTTER / DART / POSTGRESQL / LINUX
+Skills: PYTHON / DJANGO / DRF / FASTAPI / KOTLIN / FLUTTER / POSTGRESQL / LINUX
 
 - 🌱 I’m currently learning algorithms and data structures. 
 
