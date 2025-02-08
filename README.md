@@ -6,7 +6,7 @@
 I'm Akhmad from Uzbekistan 🇺🇿, and I create content about **Mobile Development**.  
 I love learning new **languages and frameworks**, especially **Dart & Flutter**, and working with **Django & FastAPI**.  
 I'm also passionate about **Linux, system security, and backend development**.
-**Tech Stack**: Python, Django, DRF, FastAPI, Kotlin, Flutter, PostgreSQL, Linux  
+**Tech Stack**: Python, Django, DRF, FastAPI, Kotlin, Flutter, PostgreSQL, Linux.
 
 ### 🌱 Currently Learning:
 - 📚 **Algorithms & Data Structures**
