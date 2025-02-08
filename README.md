@@ -45,8 +45,8 @@ I'm also passionate about **Linux, system security, and backend development**.
 ### 🔗 Connect with Me:
 [![GitHub](https://img.shields.io/badge/GitHub-akhmadjonakbarov-181717?style=for-the-badge&logo=github)](https://github.com/akhmadjonakbarov)
 [![YouTube](https://img.shields.io/badge/YouTube-Akhmad%20Akbarov-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI99Tip1a09X7Ni6XP1iXng)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhmad%20Akbarov-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhmad-akbarov/)
-[![Telegram](https://img.shields.io/badge/Telegram-@akhmad_akbarov-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/akhmad_akbarov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhmad%20Akbarov-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhmadjon-akbarov-aa6864218/)
+
 
 ---
 
