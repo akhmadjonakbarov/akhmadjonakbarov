@@ -14,12 +14,6 @@ I'm also passionate about **Linux, system security, and backend development**.
 
 ---
 
-### 🏆 Hackerrank Stats:
-[![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile)
-
-![Hackerrank Hackos](https://img.shields.io/badge/Total_Hackos-266-green?style=for-the-badge&logo=hackerrank)
-
-
 ### 🛠️ Tech & Tools I Use:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -30,6 +24,12 @@ I'm also passionate about **Linux, system security, and backend development**.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+
+
+### 🏆 Hackerrank Stats:
+[![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile)
+
+![Hackerrank Hackos](https://img.shields.io/badge/Total_Hackos-266-red?style=for-the-badge&logo=hackerrank)
 
 ### 📊 GitHub Stats:
 <div align="center">
