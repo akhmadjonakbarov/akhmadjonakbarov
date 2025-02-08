@@ -3,14 +3,10 @@
 
 ---
 
-### 🌍 About Me
-I'm Akhmad from Uzbekistan 🇺🇿, and I create content about **Mobile Development**.  
-I love learning new **languages and frameworks**, especially **Dart & Flutter**, and working with **Django & FastAPI**.  
-I'm also passionate about **Linux, system security, and backend development**.
-
-- 🔥 **Tech Stack**: Python, Django, DRF, FastAPI, Kotlin, Flutter, PostgreSQL, Linux  
-- 🌱 **Currently Learning**: Algorithms & Data Structures  
-- 🎯 **Next Goals**: Improve problem-solving skills and contribute to open-source projects  
+### 🌱 Currently Learning:
+- 📚 **Algorithms & Data Structures**
+- 🧮 **NumPy, Pandas, Matplotlib** (for data science & visualization)
+- 🛡️ **Advanced Android Security**
 
 ---
 
@@ -22,8 +18,12 @@ I'm also passionate about **Linux, system security, and backend development**.
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logoColor=white)
 
 ---
+
 
 
 ### 🏆 Hackerrank Stats:
