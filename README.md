@@ -33,10 +33,11 @@ I'm also passionate about **Linux, system security, and backend development**.
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmadjonakbarov&theme=tokyonight" alt="GitHub Streak" width="50%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=akhmadjonakbarov&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%" />
-  <br />
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhmadjonakbarov&theme=tokyonight" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akhmadjonakbarov&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
+</div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhmadjonakbarov&layout=compact&theme=tokyonight" alt="Top Languages" width="45%" />
 </div>
 
