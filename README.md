@@ -34,12 +34,12 @@ I'm also passionate about **Linux, system security, and backend development**.
 
 ---
 
+### 🏆 LeetCode Stats:
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/akhmadjonakbarov/)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/akhmadjonakbarov?theme=dark&font=Karma&ext=heatmap)
 
-### 🏆 Hackerrank Stats:
-[![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-profile)
-
-![Hackerrank Hackos](https://img.shields.io/badge/Total_Hackos-266-red?style=for-the-badge&logo=hackerrank)
+---
 
 ### 📊 GitHub Stats:
 <div align="center">
@@ -57,7 +57,6 @@ I'm also passionate about **Linux, system security, and backend development**.
 [![GitHub](https://img.shields.io/badge/GitHub-akhmadjonakbarov-181717?style=for-the-badge&logo=github)](https://github.com/akhmadjonakbarov)
 [![YouTube](https://img.shields.io/badge/YouTube-Akhmad%20Akbarov-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCI99Tip1a09X7Ni6XP1iXng)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhmad%20Akbarov-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akhmadjon-akbarov-aa6864218/)
-
 
 ---
 
