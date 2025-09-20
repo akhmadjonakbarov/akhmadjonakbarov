@@ -34,13 +34,6 @@ I'm also passionate about **Linux, system security, and backend development**.
 
 ---
 
-### 🏆 LeetCode Stats:
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/akhmadjonakbarov/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/akhmadjonakbarov?theme=dark&font=Karma&ext=heatmap)
-
----
-
 ### 📊 GitHub Stats:
 <div align="center">
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
